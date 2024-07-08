@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logexp{
+
+    display: flex;
+}
+.header{
+    display: flex; justify-content: space-between; margin-right: 50px; margin-inline: 50px;margin-top: 40px;align-items: center;
+}
+.expériences{
+    margin-left: 40px;
+}
+.logo-airbnb{
+    width: 200px;
+}
+.rechercher{
+    display: flex; justify-content: space-between;border: solid;border-radius: 60px;
+}
+.destination{
+    margin-left: 500px; margin-top: 60px;
+}
+.voyageurs{
+    margin-top:60px;
+}
+.img-recherche{
+   margin-right: 400px;margin-top: 45px;border-radius: 50%;
+}
+.img1{
+    display: flex; justify-content: space-between; margin-top: 60px;
+}
+.gta{
+    width: 400px; border-radius: 50px;
+}
+.rdr2{
+    width: 400px; border-radius: 50px;
+}
+.minecraft{
+    width: 400px; border-radius: 50px;
+}
+.ptit{
+    width: 400px; border-radius: 50px;
+}
+.img2{
+    display: flex; justify-content: space-between; margin-top: 60px;
+}
+.moderne{
+    width: 400px; border-radius: 50px;
+}
+.sourire{
+    width: 250px; border-radius: 50px;
+}
+.moche{
+    width: 400px; border-radius: 50px;
+}
+.hotel{
+    width: 400px; border-radius: 50px;
+}
